@@ -296,4 +296,4 @@ Response:
 * **Aryan Agrawal** – Developed the pipeline from API Gateway to SQS using Lex and Lambda for capturing user queries and forwarding structured messages
 * **Sumedh Ambapkar** – Designed the backend architecture and implemented the SageMaker integration; contributed to the React frontend development
 * **Arju Singh** – Managed the flow from SQS to Step Functions, triggering the appropriate Lambda functions for async processing
-* **Krishna** – Implemented logic to fetch service cost and utilization metrics using CloudWatch and AWS Cost Explorer
+* **Krishna Prasadh Subramani** – Implemented logic to fetch service cost and utilization metrics using CloudWatch and AWS Cost Explorer
